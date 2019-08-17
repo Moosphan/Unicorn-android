@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "rank": 1,
+      "name": "Alibaba",
+      "desc": "China, valuation over $23000 million",
+      "create": "2002, June"
+    },
+    {
+      "rank": 2,
+      "name": "Tecent",
+      "desc": "China, valuation over $18670 million",
+      "create": "2002, October"
+    },
+    {
+      "rank": 3,
+      "name": "Google",
+      "desc": "US, valuation over $16550 million",
+      "create": "1994, May"
+    },
+    {
+      "rank": 4,
+      "name": "Airbnb",
+      "desc": "US, valuation over $13040 million",
+      "create": "2008, August"
+    },
+    {
+      "rank": 5,
+      "name": "Facebook",
+      "desc": "US, valuation over $12460 million",
+      "create": "2010, April"
+    },
+    {
+      "rank": 6,
+      "name": "Twitter",
+      "desc": "Japan, valuation over $9680 million",
+      "create": "2007, December"
+    },
+    {
+      "rank": 7,
+      "name": "Eleme",
+      "desc": "China, valuation over $8840 million",
+      "create": "2015, August"
+    },
+    {
+      "rank": 8,
+      "name": "HUAWEI",
+      "desc": "China, valuation over $7460 million",
+      "create": "2010, May"
+    },
+    {
+      "rank": 9,
+      "name": "Timeory",
+      "desc": "UK, valuation over $5770 million",
+      "create": "2016, December"
+    }
+  ]
+}
