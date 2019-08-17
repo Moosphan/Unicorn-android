@@ -1,6 +1,8 @@
 # Unicorn-android
 Display world's most famous unicorns and find detailed infos.
 
+![](https://github.com/Moosphan/Unicorn-android/blob/e79c9794b082f400a5fa1f538ad9d5161ca64e12/art/unicorn_logo.png)
+
 
 
 ### Purpose
